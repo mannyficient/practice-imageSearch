@@ -1,5 +1,5 @@
 
-#Description
+# Description
 Fetch data from an api specifically [unsplash] to ppopulate the screen with requested search inputs from users.
 
 # Getting Started with Create React App
