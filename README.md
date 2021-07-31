@@ -1,11 +1,14 @@
 
+#Description
+Fetch data from an api specifically [unsplash] to ppopulate the screen with requested search inputs from users.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-Fetch data from an api specifically [unsplash] to ppopulate the screen with requested search inputs from users.
+
 
 In the project directory, you can run:
 
