@@ -1,6 +1,8 @@
 
 # Description
-Fetch data from an api specifically [unsplash] to ppopulate the screen with requested search inputs from users.
+Fetch data from an api specifically [unsplash] to populate the screen with requested search inputs from users.
+Only 10 pictures are shown.
+Fetch was implemented using the axios library
 
 # Getting Started with Create React App
 
